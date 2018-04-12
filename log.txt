@@ -1,0 +1,1329 @@
+**************************************************
+command: [spotify-this-song : Forever]
+**************************************************
+Artists: A$AP Rocky, Moby
+Song Name: A$AP Forever
+Preview Link: https://p.scdn.co/mp3-preview/3235396934a24b739f2ed49c6db6a00e64c75c94?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: A$AP Forever
+--------------------------------------------------
+Artists: A$AP Rocky, Moby
+Song Name: A$AP Forever
+Preview Link: https://p.scdn.co/mp3-preview/05d29caff47e9504e86b9d4d885503f9edf867a3?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: A$AP Forever
+--------------------------------------------------
+Artists: ZAYN, Taylor Swift
+Song Name: I Don’t Wanna Live Forever (Fifty Shades Darker)
+Preview Link: null
+Album: Fifty Shades Darker (Original Motion Picture Soundtrack)
+--------------------------------------------------
+Artists: Drake, Kanye West, Lil Wayne, Eminem
+Song Name: Forever
+Preview Link: null
+Album: More Than A Game
+--------------------------------------------------
+Artists: Lil Yachty, Diplo
+Song Name: Forever Young
+Preview Link: null
+Album: Teenage Emotions
+--------------------------------------------------
+Artists: Chris Brown
+Song Name: Forever
+Preview Link: https://p.scdn.co/mp3-preview/0914bb8a4c59aecd041b7e02d34952e0355cd7a0?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: Forever
+--------------------------------------------------
+Artists: Lil Yachty
+Song Name: love me forever
+Preview Link: null
+Album: Lil Boat 2
+--------------------------------------------------
+Artists: Ben Platt
+Song Name: For Forever
+Preview Link: https://p.scdn.co/mp3-preview/f04681d178e72d691b0f1549d413de41dfae1192?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: Dear Evan Hansen (Original Broadway Cast Recording)
+--------------------------------------------------
+Artists: Drake, Kanye West, Lil Wayne, Eminem
+Song Name: Forever
+Preview Link: null
+Album: Relapse: Refill
+--------------------------------------------------
+Artists: Kari Jobe
+Song Name: Forever - Live
+Preview Link: null
+Album: Majestic (Live)
+--------------------------------------------------
+Artists: Alphaville
+Song Name: Forever Young
+Preview Link: https://p.scdn.co/mp3-preview/847a8d10c771089bbb767c1763f4b54b76115442?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: Forever Young
+--------------------------------------------------
+Artists: Martin Garrix, Matisse & Sadko
+Song Name: Forever
+Preview Link: https://p.scdn.co/mp3-preview/0154d49e9bb74dfb9fab52834da0ff8554107950?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: Forever
+--------------------------------------------------
+Artists: Demi Lovato
+Song Name: Only Forever
+Preview Link: null
+Album: Tell Me You Love Me
+--------------------------------------------------
+Artists: Jon Langston
+Song Name: Forever Girl
+Preview Link: https://p.scdn.co/mp3-preview/c55fc54821d2474a3a0d4dc49c8dfb3b4e19ee49?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: Jon Langston - EP
+--------------------------------------------------
+Artists: Lil Baby, Gunna
+Song Name: Money Forever
+Preview Link: null
+Album: Too Hard
+--------------------------------------------------
+Artists: Drake
+Song Name: Now & Forever
+Preview Link: null
+Album: If You're Reading This It's Too Late
+--------------------------------------------------
+Artists: Eric Paslay
+Song Name: Young Forever
+Preview Link: null
+Album: Young Forever
+--------------------------------------------------
+Artists: BTS
+Song Name: Epilogue: Young Forever
+Preview Link: https://p.scdn.co/mp3-preview/39bde45583d8d8732c14f64e14fce47e15257eb9?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: The Most Beautiful Moment in Life: Young Forever
+--------------------------------------------------
+Artists: Three Days Grace
+Song Name: Gone Forever
+Preview Link: https://p.scdn.co/mp3-preview/55c48e710814d26c652dde6e6d28ed3cd0e96fc9?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: One-X
+--------------------------------------------------
+Artists: Randy Travis
+Song Name: Forever And Ever, Amen
+Preview Link: https://p.scdn.co/mp3-preview/476fc7fcc15ab25413c80f802bf1590d9e413209?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: Top 10
+--------------------------------------------------
+
+**************************************************
+command: [movie-this : The Matrix]
+**************************************************
+Title: The Matrix
+Release Year: 1999
+IMDB Rating: 8.7
+Rotten Tomatoes Rating: 87%
+Country: USA
+Language: English
+Plot: A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
+Actors: Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving
+--------------------------------------------------
+
+**************************************************
+command: [movie-this : The Godfather]
+**************************************************
+Title: The Godfather
+Release Year: 1972
+IMDB Rating: 9.2
+Rotten Tomatoes Rating: 98%
+Country: USA
+Language: English, Italian, Latin
+Plot: The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.
+Actors: Marlon Brando, Al Pacino, James Caan, Richard S. Castellano
+--------------------------------------------------
+
+**************************************************
+command: [spotify-this-song : "I Want it That Way"]
+**************************************************
+Artists: Backstreet Boys
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: The Hits--Chapter One
+--------------------------------------------------
+Artists: Backstreet Boys
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/f9f504a705fcaaf2f24b004b629725451014ad6c?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: The Essential Backstreet Boys
+--------------------------------------------------
+Artists: Backstreet Boys
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: Millennium
+--------------------------------------------------
+Artists: Anthem Lights
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: Covers Part IV
+--------------------------------------------------
+Artists: Glee Cast
+Song Name: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+Preview Link: https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+--------------------------------------------------
+Artists: Backstreet Boys
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: 90 Sweet 90s Hits!
+--------------------------------------------------
+Artists: "Weird Al" Yankovic
+Song Name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Preview Link: https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: Poodle Hat
+--------------------------------------------------
+Artists: Dynamite Boy
+Song Name: I Want It That Way
+Preview Link: null
+Album: Punk Goes Pop
+--------------------------------------------------
+Artists: Boyce Avenue
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: New Acoustic Sessions, Vol. 3
+--------------------------------------------------
+Artists: Manuel Costa
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/cdde86f49ca4ef217ac08bbbb0c6295c16f015b0?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: I Want It That Way
+--------------------------------------------------
+Artists: "Weird Al" Yankovic
+Song Name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Preview Link: https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: The Essential "Weird Al" Yankovic
+--------------------------------------------------
+Artists: Backstreet Boys
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/c9302062adf4f59e60335f30c7ca46b487a267fb?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: NOW That's What I Call 90s Pop
+--------------------------------------------------
+Artists: Landon Austin & Julia Sheer
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/e777be5446dc3df34abc2eaec241edb5a590976c?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: I Want It That Way
+--------------------------------------------------
+Artists: Backstreet Boys
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: NKOTBSB
+--------------------------------------------------
+Artists: Kyle Olthoff, Destiny Jenkins
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/101776fe4fc24aac543f6b4c5aa4273ac9d2dcc4?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: I Want It That Way
+--------------------------------------------------
+Artists: Steel Panther
+Song Name: I Want It That Way
+Preview Link: null
+Album: I Want It That Way
+--------------------------------------------------
+Artists: Scott Bradlee's Postmodern Jukebox, Shoshana Bean
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: Selfies on Kodachrome
+--------------------------------------------------
+Artists: Scary Pockets, Casey Abrams
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/33685e005149d5e7d0199a764163ff77f7762e29?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: Nu Funk
+--------------------------------------------------
+Artists: Scott Bradlee's Postmodern Jukebox, Shoshana Bean
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: PMJ Is For Lovers: The Love Song Collection
+--------------------------------------------------
+Artists: Jay Smith
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/bc65890577b72315e413e59acd4c3dbac09fed57?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: Jay Smith
+--------------------------------------------------
+
+**************************************************
+command: [spotify-this-song : The Jig is Up]
+**************************************************
+Artists: El-P
+Song Name: The Jig Is Up
+Preview Link: https://p.scdn.co/mp3-preview/2c50eb8f569b79b62bd8baf9e00e172114f32eb8?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: Cancer 4 Cure
+--------------------------------------------------
+Artists: Edison Glass
+Song Name: The Jig Is Up
+Preview Link: null
+Album: Time Is Fiction
+--------------------------------------------------
+Artists: Laurence Juber
+Song Name: The Jig Is Up
+Preview Link: null
+Album: Altered Reality (Masters Of Acoustic Guitar)
+--------------------------------------------------
+Artists: El-P
+Song Name: The Jig Is Up - Instrumental
+Preview Link: https://p.scdn.co/mp3-preview/734ee1f176c86d0f0e406c4aad6810a73265c395?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: Cancer 4 Cure (Instrumentals)
+--------------------------------------------------
+Artists: Jill Sobule
+Song Name: The Jig Is Up
+Preview Link: https://p.scdn.co/mp3-preview/5d3d24f1381cf6a32571830f153cd866e87a817f?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: Jill Sobule
+--------------------------------------------------
+Artists: Vary Lumar
+Song Name: The Jig Is Up
+Preview Link: https://p.scdn.co/mp3-preview/fe4f644bcd3ed0ac65879e586f52dcb6d90c4d02?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: The Jig Is Up
+--------------------------------------------------
+Artists: The Plankerdown Band
+Song Name: The Jig Is Up
+Preview Link: https://p.scdn.co/mp3-preview/3e8a7d9e16bb2c09819a0e81fdc0a52afecd1dcd?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: The Jig Is Up
+--------------------------------------------------
+Artists: Cee-Won X
+Song Name: The Jig Is Up
+Preview Link: https://p.scdn.co/mp3-preview/0e05ca3dd448b3be48d5b344afca9d592ad85a01?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: The Jig Is Up
+--------------------------------------------------
+Artists: Organic Slant
+Song Name: The Jig Is Up
+Preview Link: https://p.scdn.co/mp3-preview/05a4b38f62b21e95dd1fa1a096b32556625bd662?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: The Jig Is Up
+--------------------------------------------------
+Artists: Big Shug
+Song Name: The Jig Is Up
+Preview Link: https://p.scdn.co/mp3-preview/8b678b448d3a240b57d72d0ce5d97072b71fe379?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: Never Say Die
+--------------------------------------------------
+Artists: Dan Crary
+Song Name: The Jig is Up
+Preview Link: https://p.scdn.co/mp3-preview/27ce6ce69c45c98663b4392f6c783c5d047cf018?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: Renaissance of the Steel String Guitar
+--------------------------------------------------
+Artists: Grown Folks
+Song Name: The Jig Is Up
+Preview Link: https://p.scdn.co/mp3-preview/cfe029b1bacca6a5397e4aa519bf423315a431bb?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: Shut Up When We Talk
+--------------------------------------------------
+Artists: The Jig Is Up!
+Song Name: The Rolling Jig / The Maid of Mount Kisco
+Preview Link: https://p.scdn.co/mp3-preview/cba50aef3360647212eadb99bbca6d92c576f64f?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: On Yer Toes!
+--------------------------------------------------
+Artists: Bohemian Fifth
+Song Name: The Jig Is Up
+Preview Link: https://p.scdn.co/mp3-preview/6cbdc1b20687ea172a47ac5c4b3f5fb73623535c?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: We The People
+--------------------------------------------------
+Artists: Quasi
+Song Name: The Jig Is Up
+Preview Link: https://p.scdn.co/mp3-preview/5e0f5da29c52b1776cab7aec54eaa1724456bee5?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: American Gong (Original Version)
+--------------------------------------------------
+Artists: Straight Reads The Line
+Song Name: The Jig Is Up
+Preview Link: https://p.scdn.co/mp3-preview/ffd40be157f82b900073eb38ca7860647f66f12c?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: The Author
+--------------------------------------------------
+Artists: Ray Scudero
+Song Name: The Jig is Up
+Preview Link: https://p.scdn.co/mp3-preview/733ebec11703b9ddd367b5ac5030ac551ba8e320?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: Poor Working Slob
+--------------------------------------------------
+Artists: New Irish All-Stars
+Song Name: The Jig Is Up
+Preview Link: https://p.scdn.co/mp3-preview/9ca1fdc6444dab5a2cddcbc5499f562051a85f42?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: Irish Celebration: Traditional Celtic Music of Ireland
+--------------------------------------------------
+Artists: Jalal
+Song Name: The Jig Is Up
+Preview Link: https://p.scdn.co/mp3-preview/38d8c1118e3c31bc05d394d62ff5d06e88411c01?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: Strivin
+--------------------------------------------------
+Artists: Pure Energy Crew
+Song Name: The Jig Is Up
+Preview Link: https://p.scdn.co/mp3-preview/9e8912385ed87ec6c28cc58ef014931e4038fca7?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: Pole Dance Workout: Exotic Music for Pole Dancing & Club Performances
+--------------------------------------------------
+
+**************************************************
+command: [spotify-this-song : Hold my hand]
+**************************************************
+Artists: Jess Glynne
+Song Name: Hold My Hand
+Preview Link: https://p.scdn.co/mp3-preview/94bf21a26658ea01994b3b6aef3dc94090fd4fc2?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: Hold My Hand
+--------------------------------------------------
+Artists: Hootie & The Blowfish
+Song Name: Hold My Hand
+Preview Link: https://p.scdn.co/mp3-preview/d50d8c2386d8f24274c69083da307452ac3fa479?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: Cracked Rear View
+--------------------------------------------------
+Artists: Jess Glynne
+Song Name: Hold My Hand
+Preview Link: https://p.scdn.co/mp3-preview/94bf21a26658ea01994b3b6aef3dc94090fd4fc2?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: I Cry When I Laugh
+--------------------------------------------------
+Artists: Michael Jackson, Akon
+Song Name: Hold My Hand
+Preview Link: https://p.scdn.co/mp3-preview/6966f67550733f8af9eb05e3e57ab24c21d29cd4?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: Michael
+--------------------------------------------------
+Artists: New Found Glory
+Song Name: Hold My Hand
+Preview Link: null
+Album: Coming Home
+--------------------------------------------------
+Artists: Ken Ashcorp
+Song Name: Hold My Hand
+Preview Link: https://p.scdn.co/mp3-preview/8902e06404f6daad52daa541fd3796df6d1bddc9?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: Hold My Hand
+--------------------------------------------------
+Artists: The Fray
+Song Name: Hold My Hand
+Preview Link: https://p.scdn.co/mp3-preview/c2730c76387adf5c86e7719a5e5626026ebb8e4d?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: Helios
+--------------------------------------------------
+Artists: Jess Glynne, Feenixpawl
+Song Name: Hold My Hand - Feenixpawl Remix
+Preview Link: https://p.scdn.co/mp3-preview/ea64530c633a9a218fc89c7d11ccf64d7fd95c99?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: Hold My Hand (Feenixpawl Remix)
+--------------------------------------------------
+Artists: LEE HI
+Song Name: HOLD MY HAND
+Preview Link: https://p.scdn.co/mp3-preview/6d04436c00c5a7427c279d5430fe6d65367cd9d5?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: SEOULITE
+--------------------------------------------------
+Artists: Kupla
+Song Name: Hold My Hand
+Preview Link: https://p.scdn.co/mp3-preview/f79cf4aafc6ebf72fc29da859e1f4cb770884859?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: Taiga Native
+--------------------------------------------------
+Artists: Brandy Clark, Dwight Yoakam
+Song Name: Hold My Hand
+Preview Link: https://p.scdn.co/mp3-preview/ba16cda697d159524d6e4246b9aa93fdcf8fee7f?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: Hold My Hand
+--------------------------------------------------
+Artists: New Found Glory
+Song Name: Hold My Hand
+Preview Link: null
+Album: Hits
+--------------------------------------------------
+Artists: King Joshua
+Song Name: Hold My Hand
+Preview Link: https://p.scdn.co/mp3-preview/a2138318bd071c39ec76a745621533024b139c66?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: Hold My Hand
+--------------------------------------------------
+Artists: Future Of Forestry
+Song Name: Hold My Hand
+Preview Link: https://p.scdn.co/mp3-preview/8f7d072e6ab595c4ce5ab344c7fa0136cebc50f8?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: Pages
+--------------------------------------------------
+Artists: Brandy Clark
+Song Name: Hold My Hand
+Preview Link: https://p.scdn.co/mp3-preview/14cb03085f6ef16dc799f0fc0512856b8fa73f5e?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: 12 Stories
+--------------------------------------------------
+Artists: Megan Davies, Emily Hackett
+Song Name: Hold My Hand
+Preview Link: https://p.scdn.co/mp3-preview/faabcd479f9fbfc2dd12caec3dce615266591104?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: Hold My Hand
+--------------------------------------------------
+Artists: UNKLE
+Song Name: Hold My Hand
+Preview Link: https://p.scdn.co/mp3-preview/8d640f5aec6e05d30a2581abbadee4dc01c2454e?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: War Stories
+--------------------------------------------------
+Artists: Jess Glynne, Chris Lake
+Song Name: Hold My Hand - Chris Lake Remix
+Preview Link: https://p.scdn.co/mp3-preview/164b0b8e472044921636ca07f0f9f42e4ae646de?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: Hold My Hand (Remixes)
+--------------------------------------------------
+Artists: Wilmal
+Song Name: Hold My Hand
+Preview Link: https://p.scdn.co/mp3-preview/d28b7f4ae88de2fc08b19f2320578898e97fc077?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: Sunset
+--------------------------------------------------
+Artists: Michael Jackson, Akon
+Song Name: Hold My Hand
+Preview Link: https://p.scdn.co/mp3-preview/6966f67550733f8af9eb05e3e57ab24c21d29cd4?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: R&B - 100 Hits - The Greatest R n B album - 100 R & B Classics featuring Usher, Pitbull and Justin Timberlake
+--------------------------------------------------
+
+**************************************************
+command: [spotify-this-song : "I Want it That Way"]
+**************************************************
+Artists: Backstreet Boys
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: The Hits--Chapter One
+--------------------------------------------------
+Artists: Backstreet Boys
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/f9f504a705fcaaf2f24b004b629725451014ad6c?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: The Essential Backstreet Boys
+--------------------------------------------------
+Artists: Backstreet Boys
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: Millennium
+--------------------------------------------------
+Artists: Anthem Lights
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: Covers Part IV
+--------------------------------------------------
+Artists: Glee Cast
+Song Name: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+Preview Link: https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+--------------------------------------------------
+Artists: Backstreet Boys
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: 90 Sweet 90s Hits!
+--------------------------------------------------
+Artists: "Weird Al" Yankovic
+Song Name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Preview Link: https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: Poodle Hat
+--------------------------------------------------
+Artists: Dynamite Boy
+Song Name: I Want It That Way
+Preview Link: null
+Album: Punk Goes Pop
+--------------------------------------------------
+Artists: Boyce Avenue
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: New Acoustic Sessions, Vol. 3
+--------------------------------------------------
+Artists: Manuel Costa
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/cdde86f49ca4ef217ac08bbbb0c6295c16f015b0?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: I Want It That Way
+--------------------------------------------------
+Artists: "Weird Al" Yankovic
+Song Name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Preview Link: https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: The Essential "Weird Al" Yankovic
+--------------------------------------------------
+Artists: Backstreet Boys
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/c9302062adf4f59e60335f30c7ca46b487a267fb?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: NOW That's What I Call 90s Pop
+--------------------------------------------------
+Artists: Landon Austin & Julia Sheer
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/e777be5446dc3df34abc2eaec241edb5a590976c?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: I Want It That Way
+--------------------------------------------------
+Artists: Backstreet Boys
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: NKOTBSB
+--------------------------------------------------
+Artists: Kyle Olthoff, Destiny Jenkins
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/101776fe4fc24aac543f6b4c5aa4273ac9d2dcc4?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: I Want It That Way
+--------------------------------------------------
+Artists: Steel Panther
+Song Name: I Want It That Way
+Preview Link: null
+Album: I Want It That Way
+--------------------------------------------------
+Artists: Scott Bradlee's Postmodern Jukebox, Shoshana Bean
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: Selfies on Kodachrome
+--------------------------------------------------
+Artists: Scary Pockets, Casey Abrams
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/33685e005149d5e7d0199a764163ff77f7762e29?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: Nu Funk
+--------------------------------------------------
+Artists: Scott Bradlee's Postmodern Jukebox, Shoshana Bean
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: PMJ Is For Lovers: The Love Song Collection
+--------------------------------------------------
+Artists: Jay Smith
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/bc65890577b72315e413e59acd4c3dbac09fed57?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: Jay Smith
+--------------------------------------------------
+
+**************************************************
+command: [movie-this : Django Unchained]
+**************************************************
+Title: Django Unchained
+Release Year: 2012
+IMDB Rating: 8.4
+Rotten Tomatoes Rating: 87%
+Country: USA
+Language: English, German, French, Italian
+Plot: With the help of a German bounty hunter, a freed slave sets out to rescue his wife from a brutal Mississippi plantation owner.
+Actors: Jamie Foxx, Christoph Waltz, Leonardo DiCaprio, Kerry Washington
+--------------------------------------------------
+
+**************************************************
+command: [spotify-this-song : Hold my hand]
+**************************************************
+Artists: Jess Glynne
+Song Name: Hold My Hand
+Preview Link: https://p.scdn.co/mp3-preview/94bf21a26658ea01994b3b6aef3dc94090fd4fc2?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: Hold My Hand
+--------------------------------------------------
+Artists: Hootie & The Blowfish
+Song Name: Hold My Hand
+Preview Link: https://p.scdn.co/mp3-preview/d50d8c2386d8f24274c69083da307452ac3fa479?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: Cracked Rear View
+--------------------------------------------------
+Artists: Jess Glynne
+Song Name: Hold My Hand
+Preview Link: https://p.scdn.co/mp3-preview/94bf21a26658ea01994b3b6aef3dc94090fd4fc2?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: I Cry When I Laugh
+--------------------------------------------------
+Artists: Michael Jackson, Akon
+Song Name: Hold My Hand
+Preview Link: https://p.scdn.co/mp3-preview/6966f67550733f8af9eb05e3e57ab24c21d29cd4?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: Michael
+--------------------------------------------------
+Artists: New Found Glory
+Song Name: Hold My Hand
+Preview Link: null
+Album: Coming Home
+--------------------------------------------------
+Artists: Ken Ashcorp
+Song Name: Hold My Hand
+Preview Link: https://p.scdn.co/mp3-preview/8902e06404f6daad52daa541fd3796df6d1bddc9?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: Hold My Hand
+--------------------------------------------------
+Artists: The Fray
+Song Name: Hold My Hand
+Preview Link: https://p.scdn.co/mp3-preview/c2730c76387adf5c86e7719a5e5626026ebb8e4d?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: Helios
+--------------------------------------------------
+Artists: Jess Glynne, Feenixpawl
+Song Name: Hold My Hand - Feenixpawl Remix
+Preview Link: https://p.scdn.co/mp3-preview/ea64530c633a9a218fc89c7d11ccf64d7fd95c99?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: Hold My Hand (Feenixpawl Remix)
+--------------------------------------------------
+Artists: LEE HI
+Song Name: HOLD MY HAND
+Preview Link: https://p.scdn.co/mp3-preview/6d04436c00c5a7427c279d5430fe6d65367cd9d5?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: SEOULITE
+--------------------------------------------------
+Artists: Kupla
+Song Name: Hold My Hand
+Preview Link: https://p.scdn.co/mp3-preview/f79cf4aafc6ebf72fc29da859e1f4cb770884859?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: Taiga Native
+--------------------------------------------------
+Artists: Brandy Clark, Dwight Yoakam
+Song Name: Hold My Hand
+Preview Link: https://p.scdn.co/mp3-preview/ba16cda697d159524d6e4246b9aa93fdcf8fee7f?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: Hold My Hand
+--------------------------------------------------
+Artists: New Found Glory
+Song Name: Hold My Hand
+Preview Link: null
+Album: Hits
+--------------------------------------------------
+Artists: King Joshua
+Song Name: Hold My Hand
+Preview Link: https://p.scdn.co/mp3-preview/a2138318bd071c39ec76a745621533024b139c66?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: Hold My Hand
+--------------------------------------------------
+Artists: Future Of Forestry
+Song Name: Hold My Hand
+Preview Link: https://p.scdn.co/mp3-preview/8f7d072e6ab595c4ce5ab344c7fa0136cebc50f8?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: Pages
+--------------------------------------------------
+Artists: Brandy Clark
+Song Name: Hold My Hand
+Preview Link: https://p.scdn.co/mp3-preview/14cb03085f6ef16dc799f0fc0512856b8fa73f5e?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: 12 Stories
+--------------------------------------------------
+Artists: Megan Davies, Emily Hackett
+Song Name: Hold My Hand
+Preview Link: https://p.scdn.co/mp3-preview/faabcd479f9fbfc2dd12caec3dce615266591104?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: Hold My Hand
+--------------------------------------------------
+Artists: UNKLE
+Song Name: Hold My Hand
+Preview Link: https://p.scdn.co/mp3-preview/8d640f5aec6e05d30a2581abbadee4dc01c2454e?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: War Stories
+--------------------------------------------------
+Artists: Jess Glynne, Chris Lake
+Song Name: Hold My Hand - Chris Lake Remix
+Preview Link: https://p.scdn.co/mp3-preview/164b0b8e472044921636ca07f0f9f42e4ae646de?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: Hold My Hand (Remixes)
+--------------------------------------------------
+Artists: Wilmal
+Song Name: Hold My Hand
+Preview Link: https://p.scdn.co/mp3-preview/d28b7f4ae88de2fc08b19f2320578898e97fc077?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: Sunset
+--------------------------------------------------
+Artists: Michael Jackson, Akon
+Song Name: Hold My Hand
+Preview Link: https://p.scdn.co/mp3-preview/6966f67550733f8af9eb05e3e57ab24c21d29cd4?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: R&B - 100 Hits - The Greatest R n B album - 100 R & B Classics featuring Usher, Pitbull and Justin Timberlake
+--------------------------------------------------
+
+**************************************************
+command: [spotify-this-song : Hold my hand]
+**************************************************
+Artists: Jess Glynne
+Song Name: Hold My Hand
+Preview Link: https://p.scdn.co/mp3-preview/94bf21a26658ea01994b3b6aef3dc94090fd4fc2?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: Hold My Hand
+--------------------------------------------------
+Artists: Hootie & The Blowfish
+Song Name: Hold My Hand
+Preview Link: https://p.scdn.co/mp3-preview/d50d8c2386d8f24274c69083da307452ac3fa479?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: Cracked Rear View
+--------------------------------------------------
+Artists: Jess Glynne
+Song Name: Hold My Hand
+Preview Link: https://p.scdn.co/mp3-preview/94bf21a26658ea01994b3b6aef3dc94090fd4fc2?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: I Cry When I Laugh
+--------------------------------------------------
+Artists: Michael Jackson, Akon
+Song Name: Hold My Hand
+Preview Link: https://p.scdn.co/mp3-preview/6966f67550733f8af9eb05e3e57ab24c21d29cd4?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: Michael
+--------------------------------------------------
+Artists: New Found Glory
+Song Name: Hold My Hand
+Preview Link: null
+Album: Coming Home
+--------------------------------------------------
+Artists: Ken Ashcorp
+Song Name: Hold My Hand
+Preview Link: https://p.scdn.co/mp3-preview/8902e06404f6daad52daa541fd3796df6d1bddc9?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: Hold My Hand
+--------------------------------------------------
+Artists: The Fray
+Song Name: Hold My Hand
+Preview Link: https://p.scdn.co/mp3-preview/c2730c76387adf5c86e7719a5e5626026ebb8e4d?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: Helios
+--------------------------------------------------
+Artists: Jess Glynne, Feenixpawl
+Song Name: Hold My Hand - Feenixpawl Remix
+Preview Link: https://p.scdn.co/mp3-preview/ea64530c633a9a218fc89c7d11ccf64d7fd95c99?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: Hold My Hand (Feenixpawl Remix)
+--------------------------------------------------
+Artists: LEE HI
+Song Name: HOLD MY HAND
+Preview Link: https://p.scdn.co/mp3-preview/6d04436c00c5a7427c279d5430fe6d65367cd9d5?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: SEOULITE
+--------------------------------------------------
+Artists: Kupla
+Song Name: Hold My Hand
+Preview Link: https://p.scdn.co/mp3-preview/f79cf4aafc6ebf72fc29da859e1f4cb770884859?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: Taiga Native
+--------------------------------------------------
+Artists: Brandy Clark, Dwight Yoakam
+Song Name: Hold My Hand
+Preview Link: https://p.scdn.co/mp3-preview/ba16cda697d159524d6e4246b9aa93fdcf8fee7f?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: Hold My Hand
+--------------------------------------------------
+Artists: New Found Glory
+Song Name: Hold My Hand
+Preview Link: null
+Album: Hits
+--------------------------------------------------
+Artists: King Joshua
+Song Name: Hold My Hand
+Preview Link: https://p.scdn.co/mp3-preview/a2138318bd071c39ec76a745621533024b139c66?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: Hold My Hand
+--------------------------------------------------
+Artists: Future Of Forestry
+Song Name: Hold My Hand
+Preview Link: https://p.scdn.co/mp3-preview/8f7d072e6ab595c4ce5ab344c7fa0136cebc50f8?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: Pages
+--------------------------------------------------
+Artists: Brandy Clark
+Song Name: Hold My Hand
+Preview Link: https://p.scdn.co/mp3-preview/14cb03085f6ef16dc799f0fc0512856b8fa73f5e?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: 12 Stories
+--------------------------------------------------
+Artists: Megan Davies, Emily Hackett
+Song Name: Hold My Hand
+Preview Link: https://p.scdn.co/mp3-preview/faabcd479f9fbfc2dd12caec3dce615266591104?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: Hold My Hand
+--------------------------------------------------
+Artists: UNKLE
+Song Name: Hold My Hand
+Preview Link: https://p.scdn.co/mp3-preview/8d640f5aec6e05d30a2581abbadee4dc01c2454e?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: War Stories
+--------------------------------------------------
+Artists: Jess Glynne, Chris Lake
+Song Name: Hold My Hand - Chris Lake Remix
+Preview Link: https://p.scdn.co/mp3-preview/164b0b8e472044921636ca07f0f9f42e4ae646de?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: Hold My Hand (Remixes)
+--------------------------------------------------
+Artists: Wilmal
+Song Name: Hold My Hand
+Preview Link: https://p.scdn.co/mp3-preview/d28b7f4ae88de2fc08b19f2320578898e97fc077?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: Sunset
+--------------------------------------------------
+Artists: Michael Jackson, Akon
+Song Name: Hold My Hand
+Preview Link: https://p.scdn.co/mp3-preview/6966f67550733f8af9eb05e3e57ab24c21d29cd4?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: R&B - 100 Hits - The Greatest R n B album - 100 R & B Classics featuring Usher, Pitbull and Justin Timberlake
+--------------------------------------------------
+
+**************************************************
+command: [movie-this : Django Unchained]
+**************************************************
+Title: Django Unchained
+Release Year: 2012
+IMDB Rating: 8.4
+Rotten Tomatoes Rating: 87%
+Country: USA
+Language: English, German, French, Italian
+Plot: With the help of a German bounty hunter, a freed slave sets out to rescue his wife from a brutal Mississippi plantation owner.
+Actors: Jamie Foxx, Christoph Waltz, Leonardo DiCaprio, Kerry Washington
+--------------------------------------------------
+
+**************************************************
+command: [spotify-this-song : The Jig is Up by Kendrick Lamar]
+**************************************************
+Artists: Ace of Base
+Song Name: The Sign
+Preview Link: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: The Sign (US Album) [Remastered]
+--------------------------------------------------
+Artists: Ace of Base
+Song Name: The Sign
+Preview Link: https://p.scdn.co/mp3-preview/5ca0168d6b58e0f993b2b741af90ecc7c9b16893?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: The Sign (The Remixes)
+--------------------------------------------------
+Artists: Ace of Base
+Song Name: The Sign
+Preview Link: https://p.scdn.co/mp3-preview/5ca0168d6b58e0f993b2b741af90ecc7c9b16893?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: The Sign (The Remixes)
+--------------------------------------------------
+Artists: Ace of Base
+Song Name: The Sign - Ultimix
+Preview Link: https://p.scdn.co/mp3-preview/2c3e2f82c037557abc04c1a2d76b828c4d521838?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: The Sign (The Remixes)
+--------------------------------------------------
+Artists: Ace of Base
+Song Name: The Sign - Long Version
+Preview Link: https://p.scdn.co/mp3-preview/ccf516ab83dc899b53817816665cd42388cf6724?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: The Sign (The Remixes)
+--------------------------------------------------
+Artists: Ace of Base
+Song Name: The Sign - Ultimix
+Preview Link: https://p.scdn.co/mp3-preview/09e61a41305b12e2832c9cbea2010cbaaa788831?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: The Sign (The Remixes)
+--------------------------------------------------
+Artists: Ace of Base
+Song Name: The Sign - The Remix
+Preview Link: https://p.scdn.co/mp3-preview/082619adfb4e6757ef8fc9de5125a925b209544f?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: The Sign (The Remixes)
+--------------------------------------------------
+Artists: Ace of Base
+Song Name: The Sign - The Remix
+Preview Link: https://p.scdn.co/mp3-preview/082619adfb4e6757ef8fc9de5125a925b209544f?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: The Sign (The Remixes)
+--------------------------------------------------
+Artists: Ace of Base
+Song Name: The Sign - Dub Version
+Preview Link: https://p.scdn.co/mp3-preview/63baba8b57fda215fe785e46f71e97a30b5e37e8?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: The Sign (The Remixes)
+--------------------------------------------------
+Artists: Ace of Base
+Song Name: The Sign - Long Version
+Preview Link: https://p.scdn.co/mp3-preview/0f314a0cc1fbb59cd6934437bef37eb14b738480?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: The Sign (The Remixes)
+--------------------------------------------------
+Artists: Ace of Base
+Song Name: The Sign - Dub Version
+Preview Link: https://p.scdn.co/mp3-preview/63baba8b57fda215fe785e46f71e97a30b5e37e8?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: The Sign (The Remixes)
+--------------------------------------------------
+
+**************************************************
+command: [spotify-this-song : The Jig is Up by Kendrick Lamar]
+**************************************************
+Artists: Ace of Base
+Song Name: The Sign
+Preview Link: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: The Sign (US Album) [Remastered]
+--------------------------------------------------
+Artists: Ace of Base
+Song Name: The Sign
+Preview Link: https://p.scdn.co/mp3-preview/5ca0168d6b58e0f993b2b741af90ecc7c9b16893?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: The Sign (The Remixes)
+--------------------------------------------------
+Artists: Ace of Base
+Song Name: The Sign
+Preview Link: https://p.scdn.co/mp3-preview/5ca0168d6b58e0f993b2b741af90ecc7c9b16893?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: The Sign (The Remixes)
+--------------------------------------------------
+Artists: Ace of Base
+Song Name: The Sign - Ultimix
+Preview Link: https://p.scdn.co/mp3-preview/2c3e2f82c037557abc04c1a2d76b828c4d521838?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: The Sign (The Remixes)
+--------------------------------------------------
+Artists: Ace of Base
+Song Name: The Sign - Long Version
+Preview Link: https://p.scdn.co/mp3-preview/ccf516ab83dc899b53817816665cd42388cf6724?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: The Sign (The Remixes)
+--------------------------------------------------
+Artists: Ace of Base
+Song Name: The Sign - Ultimix
+Preview Link: https://p.scdn.co/mp3-preview/09e61a41305b12e2832c9cbea2010cbaaa788831?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: The Sign (The Remixes)
+--------------------------------------------------
+Artists: Ace of Base
+Song Name: The Sign - The Remix
+Preview Link: https://p.scdn.co/mp3-preview/082619adfb4e6757ef8fc9de5125a925b209544f?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: The Sign (The Remixes)
+--------------------------------------------------
+Artists: Ace of Base
+Song Name: The Sign - The Remix
+Preview Link: https://p.scdn.co/mp3-preview/082619adfb4e6757ef8fc9de5125a925b209544f?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: The Sign (The Remixes)
+--------------------------------------------------
+Artists: Ace of Base
+Song Name: The Sign - Dub Version
+Preview Link: https://p.scdn.co/mp3-preview/63baba8b57fda215fe785e46f71e97a30b5e37e8?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: The Sign (The Remixes)
+--------------------------------------------------
+Artists: Ace of Base
+Song Name: The Sign - Long Version
+Preview Link: https://p.scdn.co/mp3-preview/0f314a0cc1fbb59cd6934437bef37eb14b738480?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: The Sign (The Remixes)
+--------------------------------------------------
+Artists: Ace of Base
+Song Name: The Sign - Dub Version
+Preview Link: https://p.scdn.co/mp3-preview/63baba8b57fda215fe785e46f71e97a30b5e37e8?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: The Sign (The Remixes)
+--------------------------------------------------
+
+**************************************************
+command: [spotify-this-song : The Jig is Up by Kendrick Lamar]
+**************************************************
+Artists: Ace of Base
+Song Name: The Sign
+Preview Link: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: The Sign (US Album) [Remastered]
+--------------------------------------------------
+Artists: Ace of Base
+Song Name: The Sign
+Preview Link: https://p.scdn.co/mp3-preview/5ca0168d6b58e0f993b2b741af90ecc7c9b16893?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: The Sign (The Remixes)
+--------------------------------------------------
+Artists: Ace of Base
+Song Name: The Sign
+Preview Link: https://p.scdn.co/mp3-preview/5ca0168d6b58e0f993b2b741af90ecc7c9b16893?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: The Sign (The Remixes)
+--------------------------------------------------
+Artists: Ace of Base
+Song Name: The Sign - Ultimix
+Preview Link: https://p.scdn.co/mp3-preview/2c3e2f82c037557abc04c1a2d76b828c4d521838?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: The Sign (The Remixes)
+--------------------------------------------------
+Artists: Ace of Base
+Song Name: The Sign - Long Version
+Preview Link: https://p.scdn.co/mp3-preview/ccf516ab83dc899b53817816665cd42388cf6724?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: The Sign (The Remixes)
+--------------------------------------------------
+Artists: Ace of Base
+Song Name: The Sign - Ultimix
+Preview Link: https://p.scdn.co/mp3-preview/09e61a41305b12e2832c9cbea2010cbaaa788831?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: The Sign (The Remixes)
+--------------------------------------------------
+Artists: Ace of Base
+Song Name: The Sign - The Remix
+Preview Link: https://p.scdn.co/mp3-preview/082619adfb4e6757ef8fc9de5125a925b209544f?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: The Sign (The Remixes)
+--------------------------------------------------
+Artists: Ace of Base
+Song Name: The Sign - The Remix
+Preview Link: https://p.scdn.co/mp3-preview/082619adfb4e6757ef8fc9de5125a925b209544f?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: The Sign (The Remixes)
+--------------------------------------------------
+Artists: Ace of Base
+Song Name: The Sign - Dub Version
+Preview Link: https://p.scdn.co/mp3-preview/63baba8b57fda215fe785e46f71e97a30b5e37e8?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: The Sign (The Remixes)
+--------------------------------------------------
+Artists: Ace of Base
+Song Name: The Sign - Long Version
+Preview Link: https://p.scdn.co/mp3-preview/0f314a0cc1fbb59cd6934437bef37eb14b738480?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: The Sign (The Remixes)
+--------------------------------------------------
+Artists: Ace of Base
+Song Name: The Sign - Dub Version
+Preview Link: https://p.scdn.co/mp3-preview/63baba8b57fda215fe785e46f71e97a30b5e37e8?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: The Sign (The Remixes)
+--------------------------------------------------
+
+**************************************************
+command: [movie-this : Django Unchained]
+**************************************************
+Title: Django Unchained
+Release Year: 2012
+IMDB Rating: 8.4
+Rotten Tomatoes Rating: 87%
+Country: USA
+Language: English, German, French, Italian
+Plot: With the help of a German bounty hunter, a freed slave sets out to rescue his wife from a brutal Mississippi plantation owner.
+Actors: Jamie Foxx, Christoph Waltz, Leonardo DiCaprio, Kerry Washington
+--------------------------------------------------
+
+**************************************************
+command: [spotify-this-song : Hold my hand]
+**************************************************
+Artists: Jess Glynne
+Song Name: Hold My Hand
+Preview Link: https://p.scdn.co/mp3-preview/94bf21a26658ea01994b3b6aef3dc94090fd4fc2?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: Hold My Hand
+--------------------------------------------------
+Artists: Hootie & The Blowfish
+Song Name: Hold My Hand
+Preview Link: https://p.scdn.co/mp3-preview/d50d8c2386d8f24274c69083da307452ac3fa479?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: Cracked Rear View
+--------------------------------------------------
+Artists: Jess Glynne
+Song Name: Hold My Hand
+Preview Link: https://p.scdn.co/mp3-preview/94bf21a26658ea01994b3b6aef3dc94090fd4fc2?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: I Cry When I Laugh
+--------------------------------------------------
+Artists: Michael Jackson, Akon
+Song Name: Hold My Hand
+Preview Link: https://p.scdn.co/mp3-preview/6966f67550733f8af9eb05e3e57ab24c21d29cd4?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: Michael
+--------------------------------------------------
+Artists: New Found Glory
+Song Name: Hold My Hand
+Preview Link: null
+Album: Coming Home
+--------------------------------------------------
+Artists: Ken Ashcorp
+Song Name: Hold My Hand
+Preview Link: https://p.scdn.co/mp3-preview/8902e06404f6daad52daa541fd3796df6d1bddc9?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: Hold My Hand
+--------------------------------------------------
+Artists: The Fray
+Song Name: Hold My Hand
+Preview Link: https://p.scdn.co/mp3-preview/c2730c76387adf5c86e7719a5e5626026ebb8e4d?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: Helios
+--------------------------------------------------
+Artists: Jess Glynne, Feenixpawl
+Song Name: Hold My Hand - Feenixpawl Remix
+Preview Link: https://p.scdn.co/mp3-preview/ea64530c633a9a218fc89c7d11ccf64d7fd95c99?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: Hold My Hand (Feenixpawl Remix)
+--------------------------------------------------
+Artists: LEE HI
+Song Name: HOLD MY HAND
+Preview Link: https://p.scdn.co/mp3-preview/6d04436c00c5a7427c279d5430fe6d65367cd9d5?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: SEOULITE
+--------------------------------------------------
+Artists: Kupla
+Song Name: Hold My Hand
+Preview Link: https://p.scdn.co/mp3-preview/f79cf4aafc6ebf72fc29da859e1f4cb770884859?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: Taiga Native
+--------------------------------------------------
+Artists: Brandy Clark, Dwight Yoakam
+Song Name: Hold My Hand
+Preview Link: https://p.scdn.co/mp3-preview/ba16cda697d159524d6e4246b9aa93fdcf8fee7f?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: Hold My Hand
+--------------------------------------------------
+Artists: New Found Glory
+Song Name: Hold My Hand
+Preview Link: null
+Album: Hits
+--------------------------------------------------
+Artists: King Joshua
+Song Name: Hold My Hand
+Preview Link: https://p.scdn.co/mp3-preview/a2138318bd071c39ec76a745621533024b139c66?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: Hold My Hand
+--------------------------------------------------
+Artists: Future Of Forestry
+Song Name: Hold My Hand
+Preview Link: https://p.scdn.co/mp3-preview/8f7d072e6ab595c4ce5ab344c7fa0136cebc50f8?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: Pages
+--------------------------------------------------
+Artists: Brandy Clark
+Song Name: Hold My Hand
+Preview Link: https://p.scdn.co/mp3-preview/14cb03085f6ef16dc799f0fc0512856b8fa73f5e?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: 12 Stories
+--------------------------------------------------
+Artists: Megan Davies, Emily Hackett
+Song Name: Hold My Hand
+Preview Link: https://p.scdn.co/mp3-preview/faabcd479f9fbfc2dd12caec3dce615266591104?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: Hold My Hand
+--------------------------------------------------
+Artists: UNKLE
+Song Name: Hold My Hand
+Preview Link: https://p.scdn.co/mp3-preview/8d640f5aec6e05d30a2581abbadee4dc01c2454e?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: War Stories
+--------------------------------------------------
+Artists: Jess Glynne, Chris Lake
+Song Name: Hold My Hand - Chris Lake Remix
+Preview Link: https://p.scdn.co/mp3-preview/164b0b8e472044921636ca07f0f9f42e4ae646de?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: Hold My Hand (Remixes)
+--------------------------------------------------
+Artists: Wilmal
+Song Name: Hold My Hand
+Preview Link: https://p.scdn.co/mp3-preview/d28b7f4ae88de2fc08b19f2320578898e97fc077?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: Sunset
+--------------------------------------------------
+Artists: Michael Jackson, Akon
+Song Name: Hold My Hand
+Preview Link: https://p.scdn.co/mp3-preview/6966f67550733f8af9eb05e3e57ab24c21d29cd4?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: R&B - 100 Hits - The Greatest R n B album - 100 R & B Classics featuring Usher, Pitbull and Justin Timberlake
+--------------------------------------------------
+
+**************************************************
+command: [spotify-this-song : The Jig is Up by Kendrick Lamar]
+**************************************************
+Artists: Ace of Base
+Song Name: The Sign
+Preview Link: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: The Sign (US Album) [Remastered]
+--------------------------------------------------
+Artists: Ace of Base
+Song Name: The Sign
+Preview Link: https://p.scdn.co/mp3-preview/5ca0168d6b58e0f993b2b741af90ecc7c9b16893?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: The Sign (The Remixes)
+--------------------------------------------------
+Artists: Ace of Base
+Song Name: The Sign
+Preview Link: https://p.scdn.co/mp3-preview/5ca0168d6b58e0f993b2b741af90ecc7c9b16893?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: The Sign (The Remixes)
+--------------------------------------------------
+Artists: Ace of Base
+Song Name: The Sign - Ultimix
+Preview Link: https://p.scdn.co/mp3-preview/2c3e2f82c037557abc04c1a2d76b828c4d521838?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: The Sign (The Remixes)
+--------------------------------------------------
+Artists: Ace of Base
+Song Name: The Sign - Long Version
+Preview Link: https://p.scdn.co/mp3-preview/ccf516ab83dc899b53817816665cd42388cf6724?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: The Sign (The Remixes)
+--------------------------------------------------
+Artists: Ace of Base
+Song Name: The Sign - Ultimix
+Preview Link: https://p.scdn.co/mp3-preview/09e61a41305b12e2832c9cbea2010cbaaa788831?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: The Sign (The Remixes)
+--------------------------------------------------
+Artists: Ace of Base
+Song Name: The Sign - The Remix
+Preview Link: https://p.scdn.co/mp3-preview/082619adfb4e6757ef8fc9de5125a925b209544f?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: The Sign (The Remixes)
+--------------------------------------------------
+Artists: Ace of Base
+Song Name: The Sign - The Remix
+Preview Link: https://p.scdn.co/mp3-preview/082619adfb4e6757ef8fc9de5125a925b209544f?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: The Sign (The Remixes)
+--------------------------------------------------
+Artists: Ace of Base
+Song Name: The Sign - Dub Version
+Preview Link: https://p.scdn.co/mp3-preview/63baba8b57fda215fe785e46f71e97a30b5e37e8?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: The Sign (The Remixes)
+--------------------------------------------------
+Artists: Ace of Base
+Song Name: The Sign - Long Version
+Preview Link: https://p.scdn.co/mp3-preview/0f314a0cc1fbb59cd6934437bef37eb14b738480?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: The Sign (The Remixes)
+--------------------------------------------------
+Artists: Ace of Base
+Song Name: The Sign - Dub Version
+Preview Link: https://p.scdn.co/mp3-preview/63baba8b57fda215fe785e46f71e97a30b5e37e8?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: The Sign (The Remixes)
+--------------------------------------------------
+
+**************************************************
+command: [spotify-this-song : "I Want it That Way"]
+**************************************************
+Artists: Backstreet Boys
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: The Hits--Chapter One
+--------------------------------------------------
+Artists: Backstreet Boys
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/f9f504a705fcaaf2f24b004b629725451014ad6c?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: The Essential Backstreet Boys
+--------------------------------------------------
+Artists: Backstreet Boys
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: Millennium
+--------------------------------------------------
+Artists: Anthem Lights
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: Covers Part IV
+--------------------------------------------------
+Artists: Glee Cast
+Song Name: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+Preview Link: https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+--------------------------------------------------
+Artists: Backstreet Boys
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: 90 Sweet 90s Hits!
+--------------------------------------------------
+Artists: "Weird Al" Yankovic
+Song Name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Preview Link: https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: Poodle Hat
+--------------------------------------------------
+Artists: Dynamite Boy
+Song Name: I Want It That Way
+Preview Link: null
+Album: Punk Goes Pop
+--------------------------------------------------
+Artists: Boyce Avenue
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: New Acoustic Sessions, Vol. 3
+--------------------------------------------------
+Artists: Manuel Costa
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/cdde86f49ca4ef217ac08bbbb0c6295c16f015b0?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: I Want It That Way
+--------------------------------------------------
+Artists: "Weird Al" Yankovic
+Song Name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Preview Link: https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: The Essential "Weird Al" Yankovic
+--------------------------------------------------
+Artists: Backstreet Boys
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/c9302062adf4f59e60335f30c7ca46b487a267fb?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: NOW That's What I Call 90s Pop
+--------------------------------------------------
+Artists: Landon Austin & Julia Sheer
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/e777be5446dc3df34abc2eaec241edb5a590976c?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: I Want It That Way
+--------------------------------------------------
+Artists: Backstreet Boys
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: NKOTBSB
+--------------------------------------------------
+Artists: Kyle Olthoff, Destiny Jenkins
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/101776fe4fc24aac543f6b4c5aa4273ac9d2dcc4?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: I Want It That Way
+--------------------------------------------------
+Artists: Steel Panther
+Song Name: I Want It That Way
+Preview Link: null
+Album: I Want It That Way
+--------------------------------------------------
+Artists: Scott Bradlee's Postmodern Jukebox, Shoshana Bean
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: Selfies on Kodachrome
+--------------------------------------------------
+Artists: Scary Pockets, Casey Abrams
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/33685e005149d5e7d0199a764163ff77f7762e29?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: Nu Funk
+--------------------------------------------------
+Artists: Scott Bradlee's Postmodern Jukebox, Shoshana Bean
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: PMJ Is For Lovers: The Love Song Collection
+--------------------------------------------------
+Artists: Jay Smith
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/bc65890577b72315e413e59acd4c3dbac09fed57?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: Jay Smith
+--------------------------------------------------
+
+**************************************************
+command: [spotify-this-song : The Jig is Up by Kendrick Lamar]
+**************************************************
+Artists: Ace of Base
+Song Name: The Sign
+Preview Link: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: The Sign (US Album) [Remastered]
+--------------------------------------------------
+Artists: Ace of Base
+Song Name: The Sign
+Preview Link: https://p.scdn.co/mp3-preview/5ca0168d6b58e0f993b2b741af90ecc7c9b16893?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: The Sign (The Remixes)
+--------------------------------------------------
+Artists: Ace of Base
+Song Name: The Sign
+Preview Link: https://p.scdn.co/mp3-preview/5ca0168d6b58e0f993b2b741af90ecc7c9b16893?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: The Sign (The Remixes)
+--------------------------------------------------
+Artists: Ace of Base
+Song Name: The Sign - Ultimix
+Preview Link: https://p.scdn.co/mp3-preview/2c3e2f82c037557abc04c1a2d76b828c4d521838?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: The Sign (The Remixes)
+--------------------------------------------------
+Artists: Ace of Base
+Song Name: The Sign - Long Version
+Preview Link: https://p.scdn.co/mp3-preview/ccf516ab83dc899b53817816665cd42388cf6724?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: The Sign (The Remixes)
+--------------------------------------------------
+Artists: Ace of Base
+Song Name: The Sign - Ultimix
+Preview Link: https://p.scdn.co/mp3-preview/09e61a41305b12e2832c9cbea2010cbaaa788831?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: The Sign (The Remixes)
+--------------------------------------------------
+Artists: Ace of Base
+Song Name: The Sign - The Remix
+Preview Link: https://p.scdn.co/mp3-preview/082619adfb4e6757ef8fc9de5125a925b209544f?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: The Sign (The Remixes)
+--------------------------------------------------
+Artists: Ace of Base
+Song Name: The Sign - The Remix
+Preview Link: https://p.scdn.co/mp3-preview/082619adfb4e6757ef8fc9de5125a925b209544f?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: The Sign (The Remixes)
+--------------------------------------------------
+Artists: Ace of Base
+Song Name: The Sign - Dub Version
+Preview Link: https://p.scdn.co/mp3-preview/63baba8b57fda215fe785e46f71e97a30b5e37e8?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: The Sign (The Remixes)
+--------------------------------------------------
+Artists: Ace of Base
+Song Name: The Sign - Long Version
+Preview Link: https://p.scdn.co/mp3-preview/0f314a0cc1fbb59cd6934437bef37eb14b738480?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: The Sign (The Remixes)
+--------------------------------------------------
+Artists: Ace of Base
+Song Name: The Sign - Dub Version
+Preview Link: https://p.scdn.co/mp3-preview/63baba8b57fda215fe785e46f71e97a30b5e37e8?cid=338c103d18634f2583d23ebf5d3cfffd
+Album: The Sign (The Remixes)
+--------------------------------------------------
+
+**************************************************
+command: [spotify-this-song : The Jig is Up by Kendrick Lamar]
+**************************************************
+Song not found
+--------------------------------------------------
+
+**************************************************
+command: [spotify-this-song : Beautiful by Akon]
+**************************************************
+Artists: Akon, Colby O'Donis, Kardinal Offishall
+Song Name: Beautiful
+Preview Link: null
+Album: Freedom
+--------------------------------------------------
+
+**************************************************
+command: [spotify-this-song : Beautiful by Akon]
+**************************************************
+Artists: Akon, Colby O'Donis, Kardinal Offishall
+Song Name: Beautiful
+Preview Link: null
+Album: Freedom
+--------------------------------------------------
+
+**************************************************
+command: [spotify-this-song : Beautiful by Akon]
+**************************************************
+Artists: Akon, Colby O'Donis, Kardinal Offishall
+Song Name: Beautiful
+Preview Link: null
+Album: Freedom
+--------------------------------------------------
+
