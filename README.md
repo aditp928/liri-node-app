@@ -8,3 +8,4 @@
  npm install dotenv --save
  
  
+Practices utilizing API calls to reterive data and present them in the console. 
